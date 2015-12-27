@@ -1,0 +1,11 @@
+In the C.50 model I've completed the whole project. The final prediction for 500 new customers
+and the revenue to be generated from it is also calculated. 
+
+For the other machine learning algorithms, I haven't predicted the class for the 500 new 
+customers as it can be done easily. It is similar to the process shown in the C5.0 code.
+
+So, I leave it upto you, how you want to complete it.
+
+If you get better results, please share.
+
+Thank You
